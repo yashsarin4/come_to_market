@@ -1,3 +1,3 @@
 # come_to_market
-click on main_folder
-click on new_home
+1.  click on main_folder.
+2.  click on new_home.
