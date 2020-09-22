@@ -1,0 +1,102 @@
+/*!
+ * Start Bootstrap - Shop Homepage (https://startbootstrap.com/templates/shop-homepage)
+ * Copyright 2013-2020 Start Bootstrap
+ * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-shop-homepage/blob/master/LICENSE)
+ */
+body {
+  
+  text-align: center;
+}
+
+.wide-img {
+  /* width: auto; */
+  /* height: 400px; */
+  max-width: 100%;
+  max-height: 100%;
+  padding-left: 200px;
+}
+.card-img-top {
+  width: 250px;
+}
+
+/* container */
+
+
+.top-carousel{
+  margin-bottom: 40px !important;
+}
+
+.top-carouse{
+  margin-left: 200px;
+}
+
+.container {
+  /* margin-right: 0; */
+  text-align: center;
+}
+.content-page {
+  text-align: center;
+}
+
+/* DEMO DEMO DEMO */
+
+#product-list-page {
+  margin-left: 100px;
+}
+
+.mysidenav {
+  width: 250px;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.589);
+  position: fixed;
+}
+
+.mysidenav img {
+  width: 100%;
+}
+
+.product-img {
+  max-width: 100%;
+}
+
+.product-description {
+  padding: 15px 10px 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#navBarSearchForm{
+  width: 430px;
+  
+}
+
+
+
+.mr-auto, .mx-auto {
+  margin-right: 80px !important;
+}
+li .btn_nav{
+  background-color: red !important;
+  border-radius: 20px !important;
+  color: rgb(255, 255, 255) !important;
+  text-decoration-color: yellow !important;
+}
+.dandi{
+  color: wheat ;
+  font-size: 25px !important;
+}
