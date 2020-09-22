@@ -1,0 +1,81 @@
+body{
+    margin: 0;
+    padding: 0;
+    text-align: center ;
+    background-color: rgb(187, 241, 223) !important;
+}
+
+h2 ,h3{
+   
+        font-family: 'Montserrat', sans-serif;
+        font-weight: 900;
+      
+}
+
+h5{
+    font-family: 'DM Serif Display', serif;
+}
+
+#show_product{
+    text-align: center !important;
+}
+
+
+
+.container{
+    margin: 20px 0 20px;
+    
+}
+.top_container{
+    margin-top: 10%;
+}
+.heading{
+    text-align: center;
+}
+
+.my_products_heading{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+
+.product_block{
+    margin-bottom: 30px;
+}
+
+.profile_pic{
+    margin-left: 47px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+#navBarSearchForm{
+  width: 430px;
+  
+}
+
+
+
+.mr-auto, .mx-auto {
+  margin-right: 80px !important;
+}
+li .btn_nav{
+  background-color: red !important;
+  border-radius: 20px !important;
+  color: rgb(255, 255, 255) !important;
+  text-decoration-color: yellow !important;
+}
+.dandi{
+  color: wheat ;
+  font-size: 25px !important;
+}
