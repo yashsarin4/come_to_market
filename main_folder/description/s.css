@@ -1,0 +1,99 @@
+.content_bold{
+    font-weight: 500;
+}
+
+
+
+.navbar{
+    background-color: rgb(255, 255, 255) !important;
+    padding: 6px;
+
+}
+.hc{
+    font-size: 20px !important;
+}
+.navbar a {
+    float: left;
+    padding: 2px 18px 19px 9px;
+    color: #020202;
+    font-size: 20px;
+    font-style: italic;
+    font-family: cursive;}
+.login{
+    font-size: 13px;
+}
+.navbar a:hover {
+    color: #5ff0f0;
+}
+
+.slide_show_width{
+    padding-left: 0px;
+    padding-right:0px ;
+    padding-bottom: 0px;
+    
+    
+}
+
+.postadd a:hover {
+    color: #ffffff;
+}
+.fixed-bottom{
+    float: right;
+    
+}
+#navBarSearchForm input[type=search]
+{
+    width:430px !important;
+    color: lawngreen;
+}
+  
+.add{
+    background-color: rgb(146, 5, 28);
+    position: relative;
+    line-height: 45px;
+    
+}
+
+
+
+/* Testimonials */
+#testimonials{
+    
+    text-align: center;
+    background-color: #080808;
+    
+    color: white;
+    
+    width: 100%;
+    height: 60%;
+    
+}
+
+
+.testimonial-image{
+    width: 85%;
+    height: 80%;
+    
+    border-radius: 2%;
+}
+
+#press{
+    background-color: #ef8172;
+    padding-bottom: 5%;
+    text-align: center;
+}
+
+.press-image{
+    width: 15%;
+    margin: 10px 20px 10px;
+}
+
+.testimonials-items{
+    padding: 6% 5%;
+}
+
+
+.btn-bgcolor{
+    background-color: violet !important;
+}
+
